@@ -1,0 +1,23 @@
+{
+  "name": "clothing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FridayGurera/clothing.git"
+  },
+  "author": "Chavidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FridayGurera/clothing/issues"
+  },
+  "homepage": "https://github.com/FridayGurera/clothing#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
